@@ -1,1 +1,8 @@
 /newplot.png
+DS_2_5_Types_of_visualization.ipynb
+DS_2_5_Visualization_Pandas.ipynb
+DS_2_5_Visualization_Seaborn.ipynb
+Feedback.ipynb
+Theory_visualisation.ipynb
+*.csv
+!churn.csv
