@@ -1,5 +1,6 @@
 # CHURN-DATA VISUALISATION
-## Lerning project for Data Science cource at [SkillFactory](https://skillfactory.ru/)
+## Learning project for Data Science course at [SkillFactory](https://skillfactory.ru/)
+The main objective of this project is to practice visualisation methods and use the acquired charts for an overall understanding of the data trends.
 
 ## About the dataset: 
 
